@@ -1,0 +1,16 @@
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\obj\Debug\net5.0\Exercicio_04.csprojAssemblyReference.cache
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\obj\Debug\net5.0\Exercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\obj\Debug\net5.0\Exercicio_04.AssemblyInfoInputs.cache
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\obj\Debug\net5.0\Exercicio_04.AssemblyInfo.cs
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\obj\Debug\net5.0\Exercicio_04.csproj.CoreCompileInputs.cache
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\bin\Debug\net5.0\Exercicio_04.exe
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\bin\Debug\net5.0\Exercicio_04.deps.json
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\bin\Debug\net5.0\Exercicio_04.runtimeconfig.json
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\bin\Debug\net5.0\Exercicio_04.runtimeconfig.dev.json
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\bin\Debug\net5.0\Exercicio_04.dll
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\bin\Debug\net5.0\ref\Exercicio_04.dll
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\bin\Debug\net5.0\Exercicio_04.pdb
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\obj\Debug\net5.0\Exercicio_04.dll
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\obj\Debug\net5.0\ref\Exercicio_04.dll
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\obj\Debug\net5.0\Exercicio_04.pdb
+C:\GFT\ExercicioPoo_04112021\Exercicio_04\obj\Debug\net5.0\Exercicio_04.genruntimeconfig.cache
